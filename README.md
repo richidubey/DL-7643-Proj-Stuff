@@ -6,6 +6,7 @@ Dataset: https://huggingface.co/datasets/richidubey/KAIST-Multispectral-Pedestri
 
 ## Accesing GPUs via pace:
 `ssh rdubey36@login-ice.pace.gatech.edu -L 8888:localhost:8888`    
+
 `salloc --nodes=1 --gres=gpu:A100 -t5:00:00 --ntasks-per-node=24`    
 `# requests a single A100 gpu and 24 cpu cores`    
 `# Can request for H100 too, which is better.`    
