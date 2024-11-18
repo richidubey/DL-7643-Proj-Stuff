@@ -4,6 +4,7 @@ Project materials for CS 7643 Deep Learning Fall 2024, Georgia Tech
 
 Dataset (Subset): https://huggingface.co/datasets/richidubey/Mini-KAIST-Multispectral-Pedestrian-Detection-Dataset
 Dataset (Actual): https://huggingface.co/datasets/richidubey/KAIST-Multispectral-Pedestrian-Detection-Dataset
+Dataset Labels (Actual): https://huggingface.co/datasets/sywise98/kaist-labels/tree/main
 
 ## Accesing GPUs via pace:
 `ssh rdubey36@login-ice.pace.gatech.edu -L 8888:localhost:8888`  
