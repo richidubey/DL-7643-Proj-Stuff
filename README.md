@@ -1,6 +1,6 @@
 # DL-7643-Proj-Stuff
 A pipeline to improve performance of object detection in multi-spectral image data. Trained and tested on the KAIST Dataset: https://github.com/SoonminHwang/rgbt-ped-detection.
 
-The Leaderboard Pedestrian Detection Model to use for this project is located here: https://github.com/sejong-rcv/MLPD-Multi-Label-Pedestrian-Detection/tree/main
+The link to the Vit Mae Model trained on generated RGB and KAIST RGB images: https://drive.google.com/drive/folders/1-6MXCbkzUauYuB56vpXv7nux3vEuLF43?usp=sharing
 
 Read the readme document there on how to train and produce evaluation metrics.
